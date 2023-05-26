@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background-image: url("bg.png");
+}
+
+table
+{
+  background-color:  white;
+}
+
+.button_style {
+  margin-left: 10px !important;
+  margin-right: 10px;
+}
+
+.centerTable {
+  margin: 0px auto;
+}
+
+h2 {
+    color: white;
+}
